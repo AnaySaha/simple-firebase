@@ -6,6 +6,7 @@ const Header = () => {
         <div>
          <Link to="/">Home</Link>
          <Link to="/Login">Login</Link>
+         <h2>This is my first site</h2>
         </div>
     );
 };
